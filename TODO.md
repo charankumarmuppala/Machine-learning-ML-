@@ -2,7 +2,9 @@
 
 - [x] Understand workspace and git status
 - [x] Formulate plan
-- [ ] Stage all untracked files
-- [ ] Commit changes
-- [ ] Push to origin/main
+- [x] Stage all untracked files
+- [x] Commit changes
+- [x] Push to origin/main
+
+**Completed.** All files have been committed and pushed successfully.
 
